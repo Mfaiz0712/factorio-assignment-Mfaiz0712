@@ -1,0 +1,13 @@
+Name: Mohamamd Faiz
+Email: cs5210128@iitd.ac.in
+
+OS: Windows 11 Pro 22H2, build 22631
+CPU: Intel® Core™ Ultra 5 125H (9 P/E cores, 18 threads)
+RAM: 16 GB
+
+Language & version: Python 3.11.7 (official CPython x64 for Windows)
+
+Notes:
+- Uses `pulp` (bundled CBC) for LP.
+- Pure-Python Dinic for flow, deterministic edge ordering.
+- End-to-end runtime per test well below 0.2 s on this machine.
